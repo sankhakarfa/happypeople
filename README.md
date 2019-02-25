@@ -1,2 +1,3 @@
-# happypeople
+# happy people
 People Happiness indication
+
